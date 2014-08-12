@@ -1,0 +1,4 @@
+VERSION:3 SOURCE_TIMESTAMP:450481B6
+NODE:I LEVEL:0 LINE:9 "C:\CodeVisionAVR\inc\mega32.h"
+NODE:I LEVEL:0 LINE:12 "C:\CodeVisionAVR\inc\stdio.h"
+NODE:F LEVEL:0 LINE:14 "main(void)"

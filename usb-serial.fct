@@ -1,0 +1,4 @@
+main DSTACK_USAGE:11 DSTACK_LEVEL:11 FILE:"main.c" LINE:14
+printf DSTACK_USAGE:10 DSTACK_LEVEL:21 FILE:"C:\cvavr2\lib\stdio.lib" LINE:1476
+_print DSTACK_USAGE:20 DSTACK_LEVEL:41 FILE:"C:\cvavr2\lib\stdio.lib" LINE:503
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:43 FILE:"C:\cvavr2\lib\string.lib" LINE:1706
